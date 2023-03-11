@@ -1,4 +1,4 @@
-﻿//dz2
+﻿//dz2 - task2
 
 int a, b;
 Console.Write($"Введите число а: ");
