@@ -1,11 +1,13 @@
-﻿
-int a, b;
-Console.Write($"Введите число а: ");
-int.TryParse(Console.ReadLine()!, out a);
-Console.Write($"Введите число b: ");
-int.TryParse(Console.ReadLine()!, out b);
+﻿int N;
+int count = 1;
 
-if (b > a)
-    Console.Write($"max = {b} ");
-else
-    Console.Write($"min = ");
+Console.Write($"Введите число N: ");
+int.TryParse(Console.ReadLine()!, out N);
+while (count < N)
+{
+    if (count < N)
+        Console.Write($"{count + 1} ");
+    else
+        Console.Write($"{count}");
+    count += 2;
+}
