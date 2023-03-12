@@ -1,11 +1,9 @@
 ﻿
-int a, b;
+int a;
 Console.Write($"Введите число а: ");
 int.TryParse(Console.ReadLine()!, out a);
-Console.Write($"Введите число b: ");
-int.TryParse(Console.ReadLine()!, out b);
 
-if (b > a)
-    Console.Write($"max = {b} ");
+if (a % 2 == 0)
+    Console.Write($" -> да ");
 else
-    Console.Write($"min = ");
+    Console.Write($" -> нет ");
