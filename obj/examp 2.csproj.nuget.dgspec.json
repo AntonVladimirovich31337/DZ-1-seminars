@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andrejivanov/Desktop/домашка GB/дз по 1му семинару С#/examp 2/examp 2.csproj": {}
+    "/Users/andrejivanov/Desktop/1 дз по 1му семинару С#/examp 2/examp 2.csproj": {}
   },
   "projects": {
-    "/Users/andrejivanov/Desktop/домашка GB/дз по 1му семинару С#/examp 2/examp 2.csproj": {
+    "/Users/andrejivanov/Desktop/1 дз по 1му семинару С#/examp 2/examp 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andrejivanov/Desktop/домашка GB/дз по 1му семинару С#/examp 2/examp 2.csproj",
+        "projectUniqueName": "/Users/andrejivanov/Desktop/1 дз по 1му семинару С#/examp 2/examp 2.csproj",
         "projectName": "examp 2",
-        "projectPath": "/Users/andrejivanov/Desktop/домашка GB/дз по 1му семинару С#/examp 2/examp 2.csproj",
+        "projectPath": "/Users/andrejivanov/Desktop/1 дз по 1му семинару С#/examp 2/examp 2.csproj",
         "packagesPath": "/Users/andrejivanov/.nuget/packages/",
-        "outputPath": "/Users/andrejivanov/Desktop/домашка GB/дз по 1му семинару С#/examp 2/obj/",
+        "outputPath": "/Users/andrejivanov/Desktop/1 дз по 1му семинару С#/examp 2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/andrejivanov/.nuget/NuGet/NuGet.Config"
